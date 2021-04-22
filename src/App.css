@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.button-group {
+  max-width: 180px; 
+  display: flex;
+  margin: auto;
+  padding: 12px;
+  justify-content: space-between;
+}
+
+.button {
+  max-width: 64px;
+}
+
+.name-element {
+  display: flex;
+  justify-content: center;
+  padding: 8px;
+}
